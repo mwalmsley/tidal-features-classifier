@@ -1,5 +1,3 @@
-# PRIVATE VERSION NOT FOR RELEASE
-
 # Tidal Features Classifier
 Classifies low surface brightness features with convolutional neural networks and other approaches.
 
