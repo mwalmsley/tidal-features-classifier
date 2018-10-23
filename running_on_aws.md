@@ -1,5 +1,7 @@
 # Running on AWS
 
+Replace S3 buckets, SSH keys and Github username as appropriate
+
 ### Get data from S3
 
 aws configure
