@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/154298452.svg)](https://zenodo.org/badge/latestdoi/154298452)
+
 # Tidal Features Classifier
 Classifies low surface brightness features with convolutional neural networks and other approaches.
 
