@@ -1,0 +1,11 @@
+numpy
+scipy
+cython
+# tensorflow==1.11.0
+# keras==2.2.4
+scikit-learn
+seaborn
+pandas
+astropy
+scikit-image
+# photutils --no-deps

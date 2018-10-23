@@ -102,3 +102,25 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# custom ignores follow
+
+*.xml*
+*.iml*
+*.DS_Store
+*.pyc
+*.egg-info
+
+*.png
+*.fits
+
+.vscode/*
+build/*
+dist/*
+
+results/*
+
+latest_download.log
+temp_url.txt
+
+!*.gitkeep
